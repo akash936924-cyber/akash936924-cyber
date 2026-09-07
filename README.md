@@ -78,4 +78,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![API Management](https://img.shields.io/badge/API_Management-9333EA?style=for-the-badge)
+## 🏅 Holopin Badges
+
+[![An image of @yourusername's Holopin badges](https://holopin.me/yourusername)](https://holopin.io/@yourusername)
   
