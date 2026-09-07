@@ -1,26 +1,34 @@
 # 👋 Hi there, I'm Aakash Singh!
 
-🎓 I'm a **B.Tech student in Information Technology** at **ABES Engineering College, Ghaziabad**.
-
-💡 I'm passionate about **AI, full-stack development, and scalable system design**.
-
-🚀 I enjoy turning ideas into efficient, user-friendly, and impactful software solutions.
-
-✨ I believe success is an advanced form of passion, and I bring that energy into every project I build.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+IT+Student+at+ABES+Engineering+College;AI+%7C+Full+Stack+Developer;Competitive+Programmer;Building+Scalable+Software+Solutions"/>
+</p>
 
 ---
 
-## 🧠 What I'm Currently Exploring
+🎓 I'm a **B.Tech student in Information Technology** at **ABES Engineering College, Ghaziabad**.
 
-- Building AI-powered web applications and model deployments.
-- Full-Stack Development with React, Next.js, Node.js, and Express.js.
-- Cloud & DevOps for scalable deployments.
-- Competitive Programming on Codeforces, LeetCode, and CodeChef.
+💡 I'm passionate about **AI, Full-Stack Development, and Scalable System Design**.
 
-    ---
-    ## 🛠️ Technical Skills
+🚀 I enjoy turning ideas into efficient, user-friendly, and impactful software solutions.
 
-### 🤖 AI & Agentic Systems
+✨ *Success is an advanced form of passion, and I bring that energy into every project I build.*
+
+---
+
+# 🧠 What I'm Currently Exploring
+
+- 🤖 Building AI-powered web applications and AI agent workflows.
+- 🌐 Full-Stack Development with React, Next.js, Node.js & Express.
+- 🗄️ PostgreSQL, MongoDB and scalable backend systems.
+- ☁️ Cloud & DevOps for modern deployments.
+- 💻 Competitive Programming on Codeforces, LeetCode & CodeChef.
+
+---
+
+# 🛠️ Technical Skills
+
+## 🤖 AI & Agentic Systems
 
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=for-the-badge)
 ![Agent Harness](https://img.shields.io/badge/Agent_Harness-4F46E5?style=for-the-badge)
@@ -35,7 +43,7 @@
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-0D9488?style=for-the-badge)
 ![Life Cycle Hooks](https://img.shields.io/badge/Life_Cycle_Hooks-14B8A6?style=for-the-badge)
 
-### 💻 Languages & Frameworks
+## 💻 Languages & Frameworks
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,7 +66,7 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge)
 
-### ☁️ Cloud & Infrastructure
+## ☁️ Cloud & Infrastructure
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge)
@@ -78,5 +86,58 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![API Management](https://img.shields.io/badge/API_Management-9333EA?style=for-the-badge)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aakash+Singh;B.Tech+IT+Student+at+ABES;Full+Stack+Developer;Competitive+Programmer)](https://git.io/typing-svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=akash936924-cyber&theme=tokyonight)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akash936924-cyber&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash936924-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akash936924-cyber&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 Holopin Badges
+
+[![An image of @akash936924cyber's Holopin badges](https://holopin.me/akash936924cyber)](https://holopin.io/@akash936924cyber)
+
+> Badges automatically appear here once you earn them through Hacktoberfest or other Holopin events.
+
+---
+
+# 💻 Competitive Programming
+
+- 🔵 **Codeforces:** Specialist (Updating...)
+- 🟡 **LeetCode:** Aakash Singh
+- 🟠 **CodeChef:** Aakash Singh
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/akash936924-cyber">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:akash936924@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Thanks for visiting my profile! Let's build something amazing together. 🚀</b>
+</p>
