@@ -6,7 +6,7 @@
 
 🚀 I enjoy turning ideas into efficient, user-friendly, and impactful software solutions.
 
-✨ I believe **success is an advanced form of passion**, and I bring that energy into every project I build.
+✨ I believe **success is an advanced form of passion**,
 
 ---
 
