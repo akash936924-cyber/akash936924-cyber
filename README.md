@@ -79,3 +79,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![API Management](https://img.shields.io/badge/API_Management-9333EA?style=for-the-badge)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Aakash+Singh;B.Tech+IT+Student+at+ABES;Full+Stack+Developer;Competitive+Programmer)](https://git.io/typing-svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=akash936924-cyber&theme=tokyonight)
