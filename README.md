@@ -80,5 +80,6 @@
 ![API Management](https://img.shields.io/badge/API_Management-9333EA?style=for-the-badge)
 ## 🏅 Holopin Badges
 
+## 🏅 Holopin Badges
+
 [![An image of @akash936924cyber's Holopin badges](https://holopin.me/akash936924cyber)](https://holopin.io/@akash936924cyber)
-  
